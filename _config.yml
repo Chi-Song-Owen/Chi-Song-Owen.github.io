@@ -16,7 +16,8 @@ timezone: Asia/Shanghai
 
 title: Song Chi # the main title
 
-tagline: an undergraduate in thu # it will display as the sub-title
+tagline: 
+  An undergraduate in Tsinghua University, major in Computer Science # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
